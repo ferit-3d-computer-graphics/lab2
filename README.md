@@ -67,5 +67,9 @@ Follow these steps to install Anaconda and run your Python notebooks using eithe
 
 ---
 
+# How to submit your solution?
+
+After accepting assigment, repository is forked and you may simply upload notebook with solution to forked repo. 
+
 
  
